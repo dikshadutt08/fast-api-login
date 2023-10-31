@@ -2,7 +2,7 @@
 
 ## Clone the repository
 ```sh
-git clone 
+git clone https://github.com/dikshadutt08/fast-api-login.git
 ```
 
 ## Create virtual environment
@@ -28,4 +28,9 @@ It has been done using SQLite
 ## Run the server for the app locally
 ```sh
 uvicorn main:app --reload
+```
+
+## Docker Containerization
+```sh
+docker compose-up
 ```
