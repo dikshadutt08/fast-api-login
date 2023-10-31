@@ -1,4 +1,4 @@
-# fast-api-login
+# Fast-API-Login
 
 ## Clone the repository
 ```sh
@@ -29,6 +29,9 @@ It has been done using SQLite
 ```sh
 uvicorn main:app --reload
 ```
+
+## Swagger UI
+Put '/docs' after your localhost url.
 
 ## Docker Containerization
 ```sh
